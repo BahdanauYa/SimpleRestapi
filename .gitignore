@@ -1,0 +1,6 @@
+.vs
+*.exe
+bin
+obj
+*.user
+logs
